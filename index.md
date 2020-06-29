@@ -8,3 +8,7 @@ But as older they grow as more difficult their friendship developes.
 * frienly
 * loves to play
 * snoopy
+
+Cap says to Capper
+> We'll always be friends.
+> Forever.
